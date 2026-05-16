@@ -1,1 +1,1 @@
-This file is purpose for beginner only
+CA EDP OTRS Version 2 more update with generated Report using JAVASCRIPT
